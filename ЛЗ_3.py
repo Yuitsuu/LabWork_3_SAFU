@@ -6,7 +6,6 @@
 #rub=d//100
 #cop=d%100
 #print(rub, cop)
-from multiprocessing.pool import mapstar
 
 #     №2
 #N=int(input())
