@@ -3,7 +3,7 @@
 #B=int(input())
 #C=int(input())
 
-#максимальное чисало
+#максимальное чисал
 
 #if A>=B and A>=C:
 #    maximum=A
